@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package claseseprogra;
+import java.util.Scanner;
 
 /**
  *
@@ -14,7 +15,7 @@ public class Claseseprogra {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner lea =  new Scanner (System.in);
     }
     
 }
