@@ -16,6 +16,8 @@ public class Claseseprogra {
      */
     public static void main(String[] args) {
         Scanner lea =  new Scanner (System.in);
+        
+        System.out.println("SEXPOOOOOO");
     }
     
 }
